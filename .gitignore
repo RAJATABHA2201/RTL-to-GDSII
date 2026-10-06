@@ -1,0 +1,16 @@
+# Simulation generated files
+*.vcd
+sim
+sim_gate
+rtl/test_compile
+
+# LibreLane intermediate run data
+pnr/runs/
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+
+# OS files
+.DS_Store
